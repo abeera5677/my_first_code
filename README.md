@@ -1,34 +1,40 @@
 # my_first_code
 # Python Practice Repository
 
-This repository contains beginner-level Python programs created while learning the fundamentals of programming.
+This repository contains beginner-level Python programs created as part of a personal learning journey. Each file or folder focuses on a specific topic in Python.
 
 ---
 
-## Contents
+## 📚 Contents
 
-| Topic         | Description                                      |
-|---------------|--------------------------------------------------|
-| Greet Code    | A simple program that prints a greeting message |
-| Float Code    | Demonstrates float input and arithmetic         |
-| Loops         | Examples using `for` and `while` loops          |
-| Workflow      | A basic GitHub Actions workflow file            |
+| Topic           | Description                                      |
+|------------------|--------------------------------------------------|
+| Variables        | Declare and use variables of different types     |
+| Data Types       | Integer, Float, String, Boolean basics           |
+| List             | Creating, indexing, slicing, and modifying lists |
+| Tuple            | Immutable sequences                             |
+| Set              | Unordered, unique collections                    |
+| Dictionary       | Key-value pairs and basic operations             |
+| Strings          | String methods and formatting                    |
+| Conditionals     | If, else, elif examples                          |
+| Loops            | `for` and `while` loops                          |
+| Functions        | Defining and calling functions                   |
+| Function (Params)| With parameters and return values                |
+| Even-Odd         | Simple number check using conditionals           |
+| Float Code       | Handling float input and calculations            |
+| Greet Code       | Basic print statement                            |
+| Boolean Logic    | Truth values, and, or, not                       |
+| GitHub Workflow  | Example of GitHub Actions automation             |
+| More coming soon | More topics and mini projects will be added     |
 
 ---
 
-## Why This Repository?
+## 💻 How to Use
 
-- Simple and easy-to-understand Python scripts
-- Helpful for beginners who are starting with programming
-- Includes a basic workflow file to explore GitHub automation
-
----
-
-## How to Use
-
-1. Clone the repository or download the ZIP file
-2. Open any `.py` file in your code editor
-3. Run the file using Python 3
+1. Clone the repository or download the ZIP
+2. Browse to any topic folder or file
+3. Open in your code editor
+4. Run the code using Python 3
 
 ```bash
 python filename.py
